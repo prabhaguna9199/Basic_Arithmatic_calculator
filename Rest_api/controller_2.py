@@ -1,5 +1,5 @@
 from fastapi import FastAPI, HTTPException
-from Rest_api_.Arithmatic_operations import Arithmatic_operators
+from Rest_api.Arithmatic_operations import Arithmatic_operators
 from pydantic import BaseModel
 import uvicorn
 
